@@ -14,3 +14,8 @@ therefore, the implementation of algorithms for the rotation of some images had 
   <img src= 'https://github.com/Luisbaduy97/PigSkin-CNN/blob/master/rotaciones.png'>
 </p>
 
+After data augmentation, it can be seen how the categories increase significantly.
+
+<p align='center'>
+  <img src= 'https://github.com/Luisbaduy97/PigSkin-CNN/blob/master/aumented_histogram.png'>
+</p>
