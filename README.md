@@ -39,4 +39,4 @@ After data augmentation, it can be seen how the categories increase significantl
 
 After the network training it was validated with a set of 9912 and an accuracy of 85% was obtained, the weights were saved in a file and uploaded to a python file to develop a system capable of identifying new images from the hyperparameters obtained by the convolutional nueronal network.
 
-:heart:
+This project was made with :hear: by <a href='https://github.com/Luisbaduy97/PigSkin-CNN/blob/master/main.pdf'>Luis Navarrete-Baduy, Angel Carrillo-Bermejo and Nidiyare Hevia-Montiel</a> 
