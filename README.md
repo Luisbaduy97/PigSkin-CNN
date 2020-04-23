@@ -3,7 +3,7 @@
 In this project, the training of a supervised learning algorithm for the classification of skin lesions was carried out. Some categories had few images as shown in the following figure: 
 
 <p align='center'>
-   <figure>
+  <figure>
     <img src= 'https://github.com/Luisbaduy97/PigSkin-CNN/blob/master/histo_original.png'>
     <figcaption>Fig.1 - Number of images per category.</figcaption>
   </figure> 
