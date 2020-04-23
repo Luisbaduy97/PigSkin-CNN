@@ -1,7 +1,7 @@
 # PigSkin-CNN
 
 <p>
-  For this project we use the <a href = 'https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000'>"Skin Cancer MNIST: HAM10000"</a> database, which consists of a set of 10,015 dermoscopic images collected by different doctors. Lesions are described in https://www.nature.com/articles/sdata2018161.pdf. The size of the original RGB images is 450x600 pixels and they were adjusted to a size of 32x32 for network training.
+  For this project we use the <a href = 'https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000' target="_blank">"Skin Cancer MNIST: HAM10000"</a> database, which consists of a set of 10,015 dermoscopic images collected by different doctors. Lesions are described in https://www.nature.com/articles/sdata2018161.pdf. The size of the original RGB images is 450x600 pixels and they were adjusted to a size of 32x32 for network training.
 </p>
 
 In this project, the training of a supervised learning algorithm for the classification of skin lesions was carried out. Some categories had few images as shown in the following figure:
@@ -30,7 +30,7 @@ After data augmentation, it can be seen how the categories increase significantl
 
 
 <p>
-  The implementation of a basic architecture proposed by <a href = 'http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf'>Yann LeCun</a>, the architecture is shown in the following figure:
+  The implementation of a basic architecture proposed by <a href = 'http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf' target="_blank">Yann LeCun</a>, the architecture is shown in the following figure:
 </p>
 
 <p align='center'>
@@ -40,4 +40,4 @@ After data augmentation, it can be seen how the categories increase significantl
 After the network training it was validated with a set of 9912 and an accuracy of 85% was obtained, the weights were saved in a file and uploaded to a python file to develop a system capable of identifying new images from the hyperparameters obtained by the convolutional nueronal network.
 
 This project was made with :heart: by
-<a href='https://github.com/Luisbaduy97/PigSkin-CNN/blob/master/main.pdf'>Luis Navarrete-Baduy, Angel Carrillo-Bermejo and Nidiyare Hevia-Montiel</a> 
+<a href='https://github.com/Luisbaduy97/PigSkin-CNN/blob/master/main.pdf' target="_blank">Luis Navarrete-Baduy, Angel Carrillo-Bermejo and Nidiyare Hevia-Montiel</a> 
