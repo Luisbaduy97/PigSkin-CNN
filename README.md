@@ -5,6 +5,7 @@ In this project, the training of a supervised learning algorithm for the classif
 <p align='center'>
   <img src= 'https://github.com/Luisbaduy97/PigSkin-CNN/blob/master/histo_original.png'>
 </p>
+
 <div class = 'container'>
   <figcaption>                            Fig.1 - Number of images per category.</figcaption>
 </div>
