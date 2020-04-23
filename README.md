@@ -22,5 +22,9 @@ After data augmentation, it can be seen how the categories increase significantl
 
 
 <p>
-  The implementation of a basic architecture proposed by <a href = 'http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf'>Yann LeCun</a>
+  The implementation of a basic architecture proposed by <a href = 'http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf'>Yann LeCun</a>, the architecture is shown in the following figure:
+</p>
+
+<p align='center'>
+  <img src= 'https://github.com/Luisbaduy97/PigSkin-CNN/blob/master/arquitectura.png'>
 </p>
