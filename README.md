@@ -22,5 +22,5 @@ After data augmentation, it can be seen how the categories increase significantl
 
 
 <p>
-  The implementation of a basic architecture proposed by <link href = 'http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf'>Yann LeCun</link>
+  The implementation of a basic architecture proposed by <a href = 'http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf'>Yann LeCun</a>
 </p>
